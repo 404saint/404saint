@@ -1,35 +1,36 @@
-# Hi, I’m RUGERO Tesla (404saint)
+# RUGERO Tesla (404saint)
 
-Ethical Hacker | Freelance Penetration Tester | Security Researcher  
-Focused on building tools, automation, and practical security research.
+Ethical Hacker • Security Researcher • Freelance Penetration Tester  
+Focused on automation, recon, network infrastructure security, and advanced threat research.
 
 ---
 
 ## Areas of Interest
 
-- API security & automation  
-- Recon & enumeration  
-- Network infrastructure security  
-- Web vulnerabilities & exploitation  
-- Security tooling & workflow automation  
+- API security & exploitation  
+- Recon, enumeration & automation  
+- Network infrastructure security (firewalls, VPNs, ACLs, routing)  
+- Web vulnerabilities (SSRF, RCE, auth bypass, logic flaws)  
+- Malware research, analysis, and tooling  
+
+---
+
+## Tools & Skills (Advanced)
+
+- **Recon & enumeration:** Nmap, Masscan, Amass, Subfinder, Aquatone, Gobuster, ffuf  
+- **Web & API testing:** Burp Suite Pro, HTTP clients, custom automation  
+- **Network & protocol analysis:** Wireshark, tcpdump, proxying, packet inspection  
+- **Offensive tooling:** Custom scripts (Bash, Python, Go), automation pipelines  
+- **Malware research:** analysis, detection evasion research, behavior profiling, tooling  
+- **Operational security & workflow:** Git, CI/CD automation, logging, reporting  
 
 ---
 
 ## Featured Projects
 
-- **HLS Stream Analyzer** — Tool for analyzing and reconstructing HLS streams for security research  
-- *(Next project here)* — *(Short description)*  
-- *(Next project here)* — *(Short description)*  
-
----
-
-## Skills & Tools
-
-- Bash, Python, Shell scripting  
-- Nmap, Burp Suite, FFmpeg, Wireshark  
-- Web security testing (OWASP Top 10)  
-- API testing & automation  
-- Recon and enumeration pipelines  
+- **HLS Stream Analyzer** — HLS playlist analysis & reconstruction for security research  
+- *(Next project)* — *(Short description)*  
+- *(Next project)* — *(Short description)*  
 
 ---
 
