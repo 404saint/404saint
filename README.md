@@ -9,13 +9,13 @@ Focused on automation, recon, network infrastructure security, and advanced thre
 
 - API security & exploitation  
 - Recon, enumeration & automation  
-- Network infrastructure security (firewalls, VPNs, ACLs, routing)  
-- Web vulnerabilities (SSRF, RCE, auth bypass, logic flaws)  
+- Network infrastructure security  
+- Web vulnerabilities   
 - Malware research, analysis, and tooling  
 
 ---
 
-## Tools & Skills (Advanced)
+## Tools & Skills 
 
 - **Recon & enumeration:** Nmap, Masscan, Amass, Subfinder, Aquatone, Gobuster, ffuf  
 - **Web & API testing:** Burp Suite Pro, HTTP clients, custom automation  
