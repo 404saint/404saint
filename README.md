@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I’m RUGERO Tesla (404saint)
 
-<!--
-**404saint/404saint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ethical Hacker | Freelance Penetration Tester | Security Researcher  
+Focused on building tools, automation, and practical security research.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- API security & automation  
+- Recon & enumeration  
+- Network infrastructure security  
+- Web vulnerabilities & exploitation  
+- Security tooling & workflow automation  
+
+---
+
+## Featured Projects
+
+- **HLS Stream Analyzer** — Tool for analyzing and reconstructing HLS streams for security research  
+- *(Next project here)* — *(Short description)*  
+- *(Next project here)* — *(Short description)*  
+
+---
+
+## Skills & Tools
+
+- Bash, Python, Shell scripting  
+- Nmap, Burp Suite, FFmpeg, Wireshark  
+- Web security testing (OWASP Top 10)  
+- API testing & automation  
+- Recon and enumeration pipelines  
+
+---
+
+## Contact
+
+- GitHub: [404saint](https://github.com/404saint)  
+- Email: *[rugerotesla@proton.me]*  
