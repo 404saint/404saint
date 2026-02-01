@@ -31,7 +31,8 @@ Focused on automation, recon, network infrastructure security, and advanced thre
 - **HLS Stream Analyzer** — HLS playlist analysis and stream reconstruction for security research and media forensics.
 - **SurfaceLens** — Passive attack surface & Shadow IT intelligence engine built on Shodan data.  
   Supports online (API) and offline (JSON) analysis, explainable risk scoring, service categorization, and multi-format reporting (JSON / Markdown / HTML).
-- *(Next project)* — *(Short description)*  
+- **ContextLens v1** — Infrastructure and application-layer prioritization tool. Analyzes domains or IPs, profiles scale and abstraction, and provides guided recommendations for efficient security assessments.
+- *(Next project)* — *(Short description)*
 
 ---
 
