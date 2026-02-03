@@ -38,5 +38,6 @@ Focused on automation, recon, network infrastructure security, and advanced thre
 
 ## Contact
 
-- GitHub: [404saint](https://github.com/404saint)  
+- GitHub: [404saint](https://github.com/404saint)
+- HackerOne: [404saint](https://hackerone.com/404saint)
 - Email: *rugerotesla@proton.me*  
