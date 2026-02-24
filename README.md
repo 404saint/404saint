@@ -1,7 +1,6 @@
 # RUGERO Tesla (404saint)
 
-Ethical Hacker • Security Researcher • Freelance Penetration Tester  
-Focused on automation, recon, network infrastructure security, and advanced threat research.
+Infrastructure Security Engineer in Development • Network Architecture & OT System Security Focus
 
 ![Ethical Hacking](https://img.shields.io/badge/ethical%20hacking-penetration%20testing-red?logo=hackthebox&logoColor=white)
 ![Recon & Enumeration](https://img.shields.io/badge/recon-enumeration-green?logo=nmap&logoColor=white)
