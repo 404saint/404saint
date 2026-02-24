@@ -28,12 +28,17 @@ Focused on automation, recon, network infrastructure security, and advanced thre
 
 ## Featured Projects
 
-- **HLS Stream Analyzer** — HLS playlist analysis and stream reconstruction for security research and media forensics.
-- **SurfaceLens** — Passive attack surface & Shadow IT intelligence engine built on Shodan data.  
-  Supports online (API) and offline (JSON) analysis, explainable risk scoring, service categorization, and multi-format reporting.
-- **ContextLens v1** — Infrastructure and application-layer prioritization tool. Analyzes domains or IPs, profiles scale and abstraction, and provides guided recommendations for efficient security assessments.
-- **MEA (Modbus Exposure Analyzer)** — Passive Modbus traffic analysis tool that profiles device activity, evaluates behavioral risk using entropy and communication patterns, and helps identify exposed or misconfigured industrial assets.
-- *(Next project)* — *(Short description)*
+- **[PersonA-Vault](https://github.com/404saint/personavault)** — Secure, compartmentalized persona management system designed around operational separation, encrypted storage, risk scoring, and audit logging. Built with a security-first architecture and explicit threat modeling to simulate high-discipline identity compartmentalization.
+
+- **[HLS Stream Analyzer](https://github.com/404saint/hls-stream-analyzer)** — HLS playlist analysis and stream reconstruction framework for security research and media forensics. Focused on protocol transparency and reconstruction logic.
+
+- **[SurfaceLens](https://github.com/404saint/surfacelens)** — Passive attack surface & Shadow IT intelligence engine built on Shodan data. Supports online (API) and offline (JSON) analysis, explainable risk scoring, service categorization, and multi-format reporting.
+
+- **[ContextLens v1](https://github.com/404saint/contextlens)** — Infrastructure and application-layer prioritization engine. Analyzes domains or IPs, profiles abstraction layers, and provides guided recommendations for efficient security assessments.
+
+- **[MEA (Modbus Exposure Analyzer)](https://github.com/404saint/mea)** — Passive Modbus traffic analysis tool that profiles device activity, evaluates behavioral risk using entropy and communication patterns, and helps identify exposed or misconfigured industrial assets.
+
+- **Next Project** — Currently in development.
 
 ---
 
