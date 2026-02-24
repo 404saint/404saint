@@ -24,8 +24,8 @@ Focused on automation, recon, network infrastructure security, and advanced thre
 
 - API security & exploitation  
 - Recon, enumeration & automation  
-- Network infrastructure security  
-- Web vulnerabilities   
+- Network infrastructure security
+- OT & IoT Security
 - Malware research, analysis, and tooling  
 
 ---
