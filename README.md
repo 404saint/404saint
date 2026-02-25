@@ -1,46 +1,60 @@
 # RUGERO Tesla (404saint)
 
-Infrastructure Security Engineer in Development • Network Architecture & OT System Security Focus
+Industrial & Network Security | Offensive Security Research
+Focused on ICS/OT environments, attack path analysis, and resilient infrastructure design.
+Building practical labs, custom tools, and security research projects.
 
-![Ethical Hacking](https://img.shields.io/badge/ethical%20hacking-penetration%20testing-red?logo=hackthebox&logoColor=white)
-![Recon & Enumeration](https://img.shields.io/badge/recon-enumeration-green?logo=nmap&logoColor=white)
-![Web & API Security](https://img.shields.io/badge/web%20%26%20API-security-orange?logo=burpsuite&logoColor=white)
-![Fuzzing & Automation](https://img.shields.io/badge/fuzzing-automation-yellow?logoColor=white)
-![Offensive Scripting](https://img.shields.io/badge/scripting-Python%20%2F%20Bash%20%2F%20Go-blue?logo=python&logoColor=white)
-![Network Analysis](https://img.shields.io/badge/network-analysis-blue?logo=wireshark&logoColor=white)
-![Packet Inspection](https://img.shields.io/badge/packet%20inspection-inspection-lightgrey?logoColor=white)
-![Protocol Testing](https://img.shields.io/badge/protocols-Modbus%2FHTTP-lightblue?logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/malware-analysis-red?logoColor=white)
-![Detection Evasion](https://img.shields.io/badge/detection%20evasion-research-orange?logoColor=white)
-![Behavior Profiling](https://img.shields.io/badge/behavior%20profiling-analysis-purple?logoColor=white)
-![Git & Version Control](https://img.shields.io/badge/git-version%20control-red?logo=git&logoColor=white)
-![CI/CD Automation](https://img.shields.io/badge/CI%2FCD-automation-blue?logo=jenkins&logoColor=white)
-![Logging & Reporting](https://img.shields.io/badge/logging%20%26%20reporting-workflow-lightgrey?logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FFFF)
+![GNS3](https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-8FBCBB?style=for-the-badge&logo=metasploit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
 ## Areas of Interest
 
-- API security & exploitation  
-- Recon, enumeration & automation  
-- Network infrastructure security
-- OT & IoT Security
-- Malware research, analysis, and tooling  
+- Industrial & OT Network Security
+- Infrastructure & Network Architecture
+- Offensive Security Research & Lab Simulations
+- Attack Path & Lateral Movement Analysis
+- Security Tool Development & Automation  
 
 ---
 
 ## Tools & Skills 
 
-- **Recon & enumeration:** Nmap, Masscan, Amass, Subfinder, Aquatone, Gobuster, ffuf  
-- **Web & API testing:** Burp Suite Pro, HTTP clients, custom automation  
-- **Network & protocol analysis:** Wireshark, tcpdump, proxying, packet inspection  
-- **Offensive tooling:** Custom scripts (Bash, Python, Go), automation pipelines  
-- **Malware research:** analysis, detection evasion research, behavior profiling, tooling  
-- **Operational security & workflow:** Git, CI/CD automation, logging, reporting  
+- **Industrial & OT Network Security**
+Wireshark, tcpdump, SCADA/PLC emulators, GNS3, Kali Linux
+ICS/OT protocol analysis (Modbus, DNP3, BACnet), traffic inspection, anomaly detection, secure segmentation
+
+- **Infrastructure & Network Architecture**
+GNS3, Packet Tracer, Nmap, Masscan
+VLAN design, routing protocols, subnetting, network segmentation, firewall & ACL configuration, topology design
+
+- **Offensive Security Research & Lab Simulations**
+Metasploit, Python/Bash scripting, Burp Suite, virtual lab setups (VMware/VirtualBox)
+Lab design, vulnerability simulation, penetration methodology, exploit PoC development, adversary simulation
+
+- **Attack Path & Lateral Movement Analysis**
+BloodHound, PowerView, Responder, CrackMapExec, Sysinternals Suite
+Mapping attack paths, privilege escalation, lateral movement techniques, network reconnaissance, privilege auditing
+
+- **Security Tool Development & Automation**
+Python, Bash, PowerShell, Git, GitHub Actions
+Scripted automation, custom PoC tools, network scanning automation, log analysis, workflow optimization
 
 ---
 
-## Featured Projects
+## Featured Projects (Side Quests)
 
 - **[PersonA-Vault](https://github.com/404saint/personavault)** — Secure, compartmentalized persona management system designed around operational separation, encrypted storage, risk scoring, and audit logging. Built with a security-first architecture and explicit threat modeling to simulate high-discipline identity compartmentalization.
 
