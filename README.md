@@ -76,7 +76,7 @@ Practical experiments and lab setups exploring constrained networking, applicati
 
 **Labs & Experiments:**
 
-- **ADB Userspace VPN Pivot** — Reverse tethering via ADB and SOCKS5h to route PC traffic through a mobile VPN without root or system modifications.  
+- **[ADB Userspace VPN Pivot](https://github.com/404saint/network-research/tree/main/adb-userspace-vpn-pivot)** — Reverse tethering via ADB and SOCKS5h to route PC traffic through a mobile VPN without root or system modifications.  
 - *Future Lab Placeholder 1* — Planned experiment in constrained routing or traffic pivoting.  
 - *Future Lab Placeholder 2* — Placeholder for upcoming network research experiments.  
 - *Future Lab Placeholder 3* — Placeholder for upcoming network research experiments.  
