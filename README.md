@@ -81,7 +81,7 @@ Practical experiments and lab setups exploring constrained networking, applicati
 - *Future Lab Placeholder 2* — Placeholder for upcoming network research experiments.  
 - *Future Lab Placeholder 3* — Placeholder for upcoming network research experiments.  
 
-> Each lab emphasizes reproducible methodology, security considerations, and ICS/OT-inspired insights.
+> Each lab emphasizes reproducible methodolog and, security considerations.
 
 ---
 
