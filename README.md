@@ -1,7 +1,7 @@
 # RUGERO Tesla (404saint)
 
-Industrial & Network Security | Offensive Security Research
-Focused on ICS/OT environments, attack path analysis, and resilient infrastructure design.
+Industrial & Network Security | Offensive Security Researcher  
+Focused on ICS/OT environments, attack path analysis, and resilient infrastructure design.  
 Building practical labs, custom tools, and security research projects.
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FFFF)
@@ -32,24 +32,24 @@ Building practical labs, custom tools, and security research projects.
 
 ## Tools & Skills 
 
-- **Industrial & OT Network Security**
-Wireshark, tcpdump, SCADA/PLC emulators, GNS3, Kali Linux
+- **Industrial & OT Network Security**  
+Wireshark, tcpdump, SCADA/PLC emulators, GNS3, Kali Linux  
 ICS/OT protocol analysis (Modbus, DNP3, BACnet), traffic inspection, anomaly detection, secure segmentation
 
-- **Infrastructure & Network Architecture**
-GNS3, Packet Tracer, Nmap, Masscan
+- **Infrastructure & Network Architecture**  
+GNS3, Packet Tracer, Nmap, Masscan  
 VLAN design, routing protocols, subnetting, network segmentation, firewall & ACL configuration, topology design
 
-- **Offensive Security Research & Lab Simulations**
-Metasploit, Python/Bash scripting, Burp Suite, virtual lab setups (VMware/VirtualBox)
+- **Offensive Security Research & Lab Simulations**  
+Metasploit, Python/Bash scripting, Burp Suite, virtual lab setups (VMware/VirtualBox)  
 Lab design, vulnerability simulation, penetration methodology, exploit PoC development, adversary simulation
 
-- **Attack Path & Lateral Movement Analysis**
-BloodHound, PowerView, Responder, CrackMapExec, Sysinternals Suite
+- **Attack Path & Lateral Movement Analysis**  
+BloodHound, PowerView, Responder, CrackMapExec, Sysinternals Suite  
 Mapping attack paths, privilege escalation, lateral movement techniques, network reconnaissance, privilege auditing
 
-- **Security Tool Development & Automation**
-Python, Bash, PowerShell, Git, GitHub Actions
+- **Security Tool Development & Automation**  
+Python, Bash, PowerShell, Git, GitHub Actions  
 Scripted automation, custom PoC tools, network scanning automation, log analysis, workflow optimization
 
 ---
@@ -70,9 +70,24 @@ Scripted automation, custom PoC tools, network scanning automation, log analysis
 
 ---
 
+## Network Research
+
+Practical experiments and lab setups exploring constrained networking, application-layer pivots, and traffic analysis.  
+
+**Labs & Experiments:**
+
+- **ADB Userspace VPN Pivot** — Reverse tethering via ADB and SOCKS5h to route PC traffic through a mobile VPN without root or system modifications.  
+- *Future Lab Placeholder 1* — Planned experiment in constrained routing or traffic pivoting.  
+- *Future Lab Placeholder 2* — Placeholder for upcoming network research experiments.  
+- *Future Lab Placeholder 3* — Placeholder for upcoming network research experiments.  
+
+> Each lab emphasizes reproducible methodology, security considerations, and ICS/OT-inspired insights.
+
+---
+
 ## Contact
 
 - GitHub: [404saint](https://github.com/404saint)
 - HackerOne: [404saint](https://hackerone.com/404saint)
 - Website: [404saint](https://saint404.lovable.app/)
-- Email: *rugerotesla@proton.me*  
+- Email: *rugerotesla@proton.me*
