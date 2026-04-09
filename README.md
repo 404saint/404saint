@@ -62,6 +62,8 @@ Scripted automation, custom PoC tools, network scanning automation, log analysis
 
 - **[SurfaceLens](https://github.com/404saint/surfacelens)** — Passive attack surface & Shadow IT intelligence engine built on Shodan data. Supports online (API) and offline (JSON) analysis, explainable risk scoring, service categorization, and multi-format reporting.
 
+- **[SurfaceLens V2](https://github.com/404saint/surfacelens_v2)** — Modular Attack Surface Management (ASM) framework. Features a multi-provider intelligence pipeline (Shodan, Censys, LeakIX), SQLite persistence for delta tracking, and a Flask-powered tactical dashboard for real-time asset monitoring.
+
 - **[ContextLens v1](https://github.com/404saint/contextlens)** — Infrastructure and application-layer prioritization engine. Analyzes domains or IPs, profiles abstraction layers, and provides guided recommendations for efficient security assessments.
 
 - **[MEA (Modbus Exposure Analyzer)](https://github.com/404saint/mea)** — Passive Modbus traffic analysis tool that profiles device activity, evaluates behavioral risk using entropy and communication patterns, and helps identify exposed or misconfigured industrial assets.
