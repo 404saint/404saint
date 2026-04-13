@@ -18,6 +18,7 @@ Building practical labs, custom tools, and security research projects.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+
 ---
 
 ## Areas of Interest
@@ -32,47 +33,34 @@ Building practical labs, custom tools, and security research projects.
 
 ## Tools & Skills 
 
-- **Industrial & OT Network Security**  
-Wireshark, tcpdump, SCADA/PLC emulators, GNS3, Kali Linux  
+- **Industrial & OT Network Security** Wireshark, tcpdump, SCADA/PLC emulators, GNS3, Kali Linux  
 ICS/OT protocol analysis (Modbus, DNP3, BACnet), traffic inspection, anomaly detection, secure segmentation
 
-- **Infrastructure & Network Architecture**  
-GNS3, Packet Tracer, Nmap, Masscan  
+- **Infrastructure & Network Architecture** GNS3, Packet Tracer, Nmap, Masscan  
 VLAN design, routing protocols, subnetting, network segmentation, firewall & ACL configuration, topology design
 
-- **Offensive Security Research & Lab Simulations**  
-Metasploit, Python/Bash scripting, Burp Suite, virtual lab setups (VMware/VirtualBox)  
+- **Offensive Security Research & Lab Simulations** Metasploit, Python/Bash scripting, Burp Suite, virtual lab setups (VMware/VirtualBox)  
 Lab design, vulnerability simulation, penetration methodology, exploit PoC development, adversary simulation
 
-- **Attack Path & Lateral Movement Analysis**  
-BloodHound, PowerView, Responder, CrackMapExec, Sysinternals Suite  
+- **Attack Path & Lateral Movement Analysis** BloodHound, PowerView, Responder, CrackMapExec, Sysinternals Suite  
 Mapping attack paths, privilege escalation, lateral movement techniques, network reconnaissance, privilege auditing
 
-- **Security Tool Development & Automation**  
-Python, Bash, PowerShell, Git, GitHub Actions  
+- **Security Tool Development & Automation** Python, Bash, PowerShell, Git, GitHub Actions  
 Scripted automation, custom PoC tools, network scanning automation, log analysis, workflow optimization
 
+
 ---
 
-## Featured Projects (Side Quests)
+## Industrial Security & Forensics (Core Research)
 
-- **[PersonA-Vault](https://github.com/404saint/personavault)** — Secure, compartmentalized persona management system designed around operational separation, encrypted storage, risk scoring, and audit logging. Built with a security-first architecture and explicit threat modeling to simulate high-discipline identity compartmentalization.
+*Primary focus on hardware integrity and protocol-level analysis within Operational Technology.*
 
-- **[HLS Stream Analyzer](https://github.com/404saint/hls-stream-analyzer)** — HLS playlist analysis and stream reconstruction framework for security research and media forensics. Focused on protocol transparency and reconstruction logic.
-
-- **[SurfaceLens](https://github.com/404saint/surfacelens)** — Passive attack surface & Shadow IT intelligence engine built on Shodan data. Supports online (API) and offline (JSON) analysis, explainable risk scoring, service categorization, and multi-format reporting.
-
-- **[SurfaceLens V2](https://github.com/404saint/surfacelens_v2)** — Modular Attack Surface Management (ASM) framework. Features a multi-provider intelligence pipeline (Shodan, Censys, LeakIX), SQLite persistence for delta tracking, and a Flask-powered tactical dashboard for real-time asset monitoring.
-
-- **[ContextLens v1](https://github.com/404saint/contextlens)** — Infrastructure and application-layer prioritization engine. Analyzes domains or IPs, profiles abstraction layers, and provides guided recommendations for efficient security assessments.
-
+- **[Guardian-OT](https://github.com/404saint/guardian-ot)** — A hardware-aware forensic and integrity engine for ICS/OT removable media. Combines UUID fingerprinting, Merkle-tree style hashing, and entropy-based anomaly detection to secure the air-gap vector. Includes a full researcher dashboard for high-signal triage.
 - **[MEA (Modbus Exposure Analyzer)](https://github.com/404saint/mea)** — Passive Modbus traffic analysis tool that profiles device activity, evaluates behavioral risk using entropy and communication patterns, and helps identify exposed or misconfigured industrial assets.
 
-- **Next Project** — Currently in development.
-
 ---
 
-## Network Research
+## 🧪 Network Research
 
 Practical experiments and lab setups exploring constrained networking, application-layer pivots, and traffic analysis.  
 
@@ -80,16 +68,24 @@ Practical experiments and lab setups exploring constrained networking, applicati
 
 - **[ADB Userspace VPN Pivot](https://github.com/404saint/network-research/tree/main/adb-userspace-vpn-pivot)** — Reverse tethering via ADB and SOCKS5h to route PC traffic through a mobile VPN without root or system modifications.  
 - *Future Lab Placeholder 1* — Planned experiment in constrained routing or traffic pivoting.  
-- *Future Lab Placeholder 2* — Placeholder for upcoming network research experiments.  
-- *Future Lab Placeholder 3* — Placeholder for upcoming network research experiments.  
 
-> Each lab emphasizes reproducible methodolog and, security considerations.
+> Each lab emphasizes reproducible methodology and security considerations.
+
+---
+
+## 🕹️ Featured Projects (Side Quests)
+
+- **[SurfaceLens V2](https://github.com/404saint/surfacelens_v2)** — Modular Attack Surface Management (ASM) framework. Features a multi-provider intelligence pipeline (Shodan, Censys, LeakIX), SQLite persistence for delta tracking, and a Flask-powered tactical dashboard.
+- **[PersonA-Vault](https://github.com/404saint/personavault)** — Secure, compartmentalized persona management system designed around operational separation, encrypted storage, and risk scoring. 
+- **[SurfaceLens](https://github.com/404saint/surfacelens)** — Passive attack surface & Shadow IT intelligence engine built on Shodan data. Supports online/offline analysis and explainable risk scoring.
+- **[ContextLens v1](https://github.com/404saint/contextlens)** — Infrastructure and application-layer prioritization engine. Profiles abstraction layers and provides guided recommendations for assessments.
+- **[HLS Stream Analyzer](https://github.com/404saint/hls-stream-analyzer)** — HLS playlist analysis and stream reconstruction framework for security research and media forensics.
 
 ---
 
 ## Contact
 
 - GitHub: [404saint](https://github.com/404saint)
+- Website: [404saint.github.io](https://404saint.github.io/)
 - HackerOne: [404saint](https://hackerone.com/404saint)
-- Website: [404saint](https://404saint.github.io/)
-- Email: *rugerotesla@proton.me*
+- Email: `rugerotesla@proton.me`
