@@ -86,6 +86,6 @@ Practical experiments and lab setups exploring constrained networking, applicati
 ## Contact
 
 - GitHub: [404saint](https://github.com/404saint)
-- Website: [404saint.github.io](https://404saint.github.io/)
+- Website: [rugerotesla.vercel.app](https://rugerotesla.vercel.app/)
 - HackerOne: [404saint](https://hackerone.com/404saint)
 - Email: `rugerotesla@proton.me`
