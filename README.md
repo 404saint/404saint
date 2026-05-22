@@ -66,8 +66,9 @@ Practical experiments and lab setups exploring constrained networking, applicati
 
 **Labs & Experiments:**
 
+- **[GNS3 ICS/OT Security Emulation Lab](https://github.com/404saint/gns3-ics-security-lab)** — A fully isolated, reproducible industrial control systems (ICS) simulation sandbox featuring OpenPLC and Fuxa HMI, mapped using non-overlapping subnets to eliminate kernel routing conflicts.
+- **[ICS/OT Home Lab](https://github.com/404saint/ics-ot-homelab)** — A multi-tier industrial control simulation platform bridging OpenPLC, FUXA, and Ignition Maker to analyze legacy Modbus/TCP vulnerabilities and execute supervisory-bypass payload injections.
 - **[ADB Userspace VPN Pivot](https://github.com/404saint/network-research/tree/main/adb-userspace-vpn-pivot)** — Reverse tethering via ADB and SOCKS5h to route PC traffic through a mobile VPN without root or system modifications.  
-- *Future Lab Placeholder 1* — Planned experiment in constrained routing or traffic pivoting.  
 
 > Each lab emphasizes reproducible methodology and security considerations.
 
@@ -75,12 +76,12 @@ Practical experiments and lab setups exploring constrained networking, applicati
 
 ## 🕹️ Featured Projects (Side Quests)
 
+- **[Arkoi](https://github.com/404saint/arkoi)** — A cross-engine SEO poisoning detector for software downloads. Leverages an async SearXNG backend to audit search consensus, identify rank anomalies, and flag deceptive installer distribution vectors.
 - **[SurfaceLens V2](https://github.com/404saint/surfacelens_v2)** — Modular Attack Surface Management (ASM) framework. Features a multi-provider intelligence pipeline (Shodan, Censys, LeakIX), SQLite persistence for delta tracking, and a Flask-powered tactical dashboard.
 - **[PersonA-Vault](https://github.com/404saint/personavault)** — Secure, compartmentalized persona management system designed around operational separation, encrypted storage, and risk scoring. 
 - **[SurfaceLens](https://github.com/404saint/surfacelens)** — Passive attack surface & Shadow IT intelligence engine built on Shodan data. Supports online/offline analysis and explainable risk scoring.
 - **[ContextLens v1](https://github.com/404saint/contextlens)** — Infrastructure and application-layer prioritization engine. Profiles abstraction layers and provides guided recommendations for assessments.
 - **[HLS Stream Analyzer](https://github.com/404saint/hls-stream-analyzer)** — HLS playlist analysis and stream reconstruction framework for security research and media forensics.
-
 ---
 
 ## Contact
