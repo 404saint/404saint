@@ -8,7 +8,7 @@ Building practical labs, custom tools, and security research projects.
 ![GNS3](https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white)+250771627309
 ![Metasploit](https://img.shields.io/badge/Metasploit-8FBCBB?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -89,3 +89,4 @@ Practical experiments and lab setups exploring constrained networking, applicati
 - GitHub: [404saint](https://github.com/404saint)
 - HackerOne: [404saint](https://hackerone.com/404saint)
 - Email: `rugerotesla@proton.me`
+- Phone: `+250771627309` 
