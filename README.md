@@ -62,13 +62,14 @@ Scripted automation, custom PoC tools, network scanning automation, log analysis
 
 ## 🧪 Network Research
 
-Practical experiments and lab setups exploring constrained networking, application-layer pivots, and traffic analysis.  
+Practical experiments and lab setups exploring constrained networking, application-layer pivots, and traffic analysis.
 
 **Labs & Experiments:**
 
-- **[GNS3 ICS/OT Security Emulation Lab](https://github.com/404saint/gns3-ics-security-lab)** — A fully isolated, reproducible industrial control systems (ICS) simulation sandbox featuring OpenPLC and Fuxa HMI, mapped using non-overlapping subnets to eliminate kernel routing conflicts.
-- **[ICS/OT Home Lab](https://github.com/404saint/ics-ot-homelab)** — A multi-tier industrial control simulation platform bridging OpenPLC, FUXA, and Ignition Maker to analyze legacy Modbus/TCP vulnerabilities and execute supervisory-bypass payload injections.
-- **[ADB Userspace VPN Pivot](https://github.com/404saint/network-research/tree/main/adb-userspace-vpn-pivot)** — Reverse tethering via ADB and SOCKS5h to route PC traffic through a mobile VPN without root or system modifications.  
+* **[Raw Industrial Protocols Lab](https://www.google.com/search?q=https://github.com/404saint/raw-industrial-protocols)** — A bare-metal protocol analysis lab utilizing lightweight Python socket twins to mimic, capture, and dissect raw, unencrypted binary handshakes (Modbus/TCP, DNP3, EtherNet/IP, S7Comm, OPC UA) at Layer Zero.
+* **[GNS3 ICS/OT Security Emulation Lab](https://github.com/404saint/gns3-ics-security-lab)** — A fully isolated, reproducible industrial control systems (ICS) simulation sandbox featuring OpenPLC and Fuxa HMI, mapped using non-overlapping subnets to eliminate kernel routing conflicts.
+* **[ICS/OT Home Lab](https://github.com/404saint/ics-ot-homelab)** — A multi-tier industrial control simulation platform bridging OpenPLC, FUXA, and Ignition Maker to analyze legacy Modbus/TCP vulnerabilities and execute supervisory-bypass payload injections.
+* **[ADB Userspace VPN Pivot](https://github.com/404saint/network-research/tree/main/adb-userspace-vpn-pivot)** — Reverse tethering via ADB and SOCKS5h to route PC traffic through a mobile VPN without root or system modifications.
 
 > Each lab emphasizes reproducible methodology and security considerations.
 
