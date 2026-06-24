@@ -91,4 +91,4 @@ Practical experiments and lab setups exploring constrained networking, applicati
 - Website: www.rugerotesla.tech/
 - Email: `rugerotesla@proton.me`
 - Phone: `+250771627309`
-- Support My Journey: [ko-fi.com/404saint](https://ko-fi.com/404saint)
+- Buy A Packet: [ko-fi.com/404saint](https://ko-fi.com/404saint)
