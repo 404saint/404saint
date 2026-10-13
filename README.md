@@ -46,11 +46,11 @@ I investigate how systems work, how they communicate, where security assumptions
 
 </div>
 
-**PLC Security Research**   /   `IN DEVELOPMENT`
+**[PLC Security Research →](https://github.com/404saint/plc-security-research)**   /   `IN DEVELOPMENT`
 
 An upcoming research initiative exploring PLC security through controlled experiments, technical investigation, and reproducible lab work. Details and findings will be added as the work develops.
 
-**[Industrial Protocol Labs →](https://github.com/404saint/industrial-protocol-labs)**
+**[Industrial Protocols Research →](https://github.com/404saint/industrial-protocol-labs)**
 
 A collection of investigations into industrial communication, protocol behavior, implementation details, and security considerations. The series explores protocols from the raw socket level upward through dissection, capability analysis, controlled manipulation, resilience testing, and defensive analysis.
 
