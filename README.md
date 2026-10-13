@@ -54,10 +54,6 @@ An upcoming research initiative exploring PLC security through controlled experi
 
 A collection of investigations into industrial communication, protocol behavior, implementation details, and security considerations. The series explores protocols from the raw socket level upward through dissection, capability analysis, controlled manipulation, resilience testing, and defensive analysis.
 
-**[Raw Industrial Protocols Lab →](https://github.com/404saint/raw-industrial-protocols)**
-
-Low-level experiments in capturing and dissecting binary communication, examining protocol structures, and understanding what happens on the wire.
-
 ---
 
 <div align="center">
