@@ -1,94 +1,139 @@
-# RUGERO Tesla (404saint)
+ <div align="center">
 
-Industrial & Network Security | Offensive Security Researcher  
-Focused on ICS/OT environments, attack path analysis, and resilient infrastructure design.  
-Building practical labs, custom tools, and security research projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111418,100:2b2110&height=220&section=header&text=RUGERO%20Tesla&fontColor=f5a623&fontSize=56&fontAlignY=38&desc=ICS/OT%20%20SECURITY%20RESEARCHER&descAlignY=60&descColor=c99538&animation=fadeIn" width="100%" alt="RUGERO Tesla | Security Researcher" />
 
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FFFF)
-![GNS3](https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=gns3&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-FF0000?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-8FBCBB?style=for-the-badge&logo=metasploit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=for-the-badge&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1200&color=F5A623&center=true&vCenter=true&width=650&height=35&lines=Starting+at+Layer+Zero.;Investigating+how+systems+work.;Turning+technical+evidence+into+security+insight.;Building%2C+testing%2C+and+documenting+research." alt="Research philosophy animation" />
+</a>
 
+<br/>
 
----
+<a href="https://www.rugerotesla.tech">
+  <img src="https://img.shields.io/badge/WEBSITE-111418?style=for-the-badge&logo=firefoxbrowser&logoColor=f5a623" alt="Website" />
+</a>
+&nbsp;
+<a href="mailto:rugerotesla@proton.me">
+  <img src="https://img.shields.io/badge/CONTACT-111418?style=for-the-badge&logo=protonmail&logoColor=f5a623" alt="Contact" />
+</a>
 
-## Areas of Interest
+<br/><br/>
 
-- Industrial & OT Network Security
-- Infrastructure & Network Architecture
-- Offensive Security Research & Lab Simulations
-- Attack Path & Lateral Movement Analysis
-- Security Tool Development & Automation  
+`ICS/OT SECURITY`   |   `TECHNICAL INVESTIGATION`   |   `RESEARCH & DEVELOPMENT`
+
+</div>
 
 ---
 
-## Tools & Skills 
+<div align="center">
 
-- **Industrial & OT Network Security** Wireshark, tcpdump, SCADA/PLC emulators, GNS3, Kali Linux  
-ICS/OT protocol analysis (Modbus, DNP3, BACnet), traffic inspection, anomaly detection, secure segmentation
+### `00`  •  ABOUT THIS HUB
 
-- **Infrastructure & Network Architecture** GNS3, Packet Tracer, Nmap, Masscan  
-VLAN design, routing protocols, subnetting, network segmentation, firewall & ACL configuration, topology design
+</div>
 
-- **Offensive Security Research & Lab Simulations** Metasploit, Python/Bash scripting, Burp Suite, virtual lab setups (VMware/VirtualBox)  
-Lab design, vulnerability simulation, penetration methodology, exploit PoC development, adversary simulation
+An evolving hub for my security research, technical experiments, tools, and projects.
 
-- **Attack Path & Lateral Movement Analysis** BloodHound, PowerView, Responder, CrackMapExec, Sysinternals Suite  
-Mapping attack paths, privilege escalation, lateral movement techniques, network reconnaissance, privilege auditing
+I investigate how systems work, how they communicate, where security assumptions fail, and how technical findings can inform better defenses. My work combines hands-on experimentation, protocol and system analysis, custom tooling, and reproducible documentation.
 
-- **Security Tool Development & Automation** Python, Bash, PowerShell, Git, GitHub Actions  
-Scripted automation, custom PoC tools, network scanning automation, log analysis, workflow optimization
-
+**ICS/OT security is my current professional focus.** This hub grows alongside my work, leaving room for new research directions, technologies, and discoveries as they emerge.
 
 ---
 
-## Industrial Security & Forensics (Core Research)
+<div align="center">
 
-*Primary focus on hardware integrity and protocol-level analysis within Operational Technology.*
+### `01`  •  RESEARCH & INVESTIGATIONS
 
-- **[Guardian-OT](https://github.com/404saint/guardian-ot)** — A hardware-aware forensic and integrity engine for ICS/OT removable media. Combines UUID fingerprinting, Merkle-tree style hashing, and entropy-based anomaly detection to secure the air-gap vector. Includes a full researcher dashboard for high-signal triage.
-- **[MEA (Modbus Exposure Analyzer)](https://github.com/404saint/mea)** — Passive Modbus traffic analysis tool that profiles device activity, evaluates behavioral risk using entropy and communication patterns, and helps identify exposed or misconfigured industrial assets.
+*Understanding systems through hands-on investigation.*
 
----
+</div>
 
-## 🧪 Network Research
+**PLC Security Research**   /   `IN DEVELOPMENT`
 
-Practical experiments and lab setups exploring constrained networking, application-layer pivots, and traffic analysis.
+An upcoming research initiative exploring PLC security through controlled experiments, technical investigation, and reproducible lab work. Details and findings will be added as the work develops.
 
-**Labs & Experiments:**
+**[Industrial Protocol Labs →](https://github.com/404saint/industrial-protocol-labs)**
 
-* **[Industrial Protocol Labs](https://github.com/404saint/industrial-protocol-labs)** — The master portfolio for a multi-part, deep-dive research series mapping industrial control system (ICS/OT) communication layers from the raw socket level up. Employs a rigorous 5-phase lifecycle (Dissection, Capability, Manipulation, Resilience, Defensive) to reverse-engineer and secure industrial [legacy] protocols without library abstractions.
-* **[Raw Industrial Protocols Lab](https://github.com/404saint/raw-industrial-protocols)** — A lightweight protocol analysis lab acting as the initial proof-of-concept for capturing and dissecting unencrypted binary handshakes (Modbus TCP, DNP3, S7Comm) at Layer Zero.
-* **[GNS3 ICS/OT Security Emulation Lab](https://github.com/404saint/gns3-ics-security-lab)** — A fully isolated, reproducible industrial control systems (ICS) simulation sandbox featuring OpenPLC and Fuxa HMI, mapped using non-overlapping subnets to eliminate kernel routing conflicts.
-* **[ICS/OT Home Lab](https://github.com/404saint/ics-ot-homelab)** — A multi-tier industrial control simulation platform bridging OpenPLC, FUXA, and Ignition Maker to analyze legacy Modbus/TCP vulnerabilities and execute supervisory-bypass payload injections.
-* **[ADB Userspace VPN Pivot](https://github.com/404saint/network-research/tree/main/adb-userspace-vpn-pivot)** — Reverse tethering via ADB and SOCKS5h to route PC traffic through a mobile VPN without root or system modifications.
+A collection of investigations into industrial communication, protocol behavior, implementation details, and security considerations. The series explores protocols from the raw socket level upward through dissection, capability analysis, controlled manipulation, resilience testing, and defensive analysis.
 
-> Each lab emphasizes reproducible methodology and security considerations.
+**[Raw Industrial Protocols Lab →](https://github.com/404saint/raw-industrial-protocols)**
+
+Low-level experiments in capturing and dissecting binary communication, examining protocol structures, and understanding what happens on the wire.
 
 ---
 
-## 🕹️ Featured Projects (Side Quests)
+<div align="center">
 
-- **[Arkoi](https://github.com/404saint/arkoi)** — A cross-engine SEO poisoning detector for software downloads. Leverages an async SearXNG backend to audit search consensus, identify rank anomalies, and flag deceptive installer distribution vectors.
-- **[SurfaceLens V2](https://github.com/404saint/surfacelens_v2)** — Modular Attack Surface Management (ASM) framework. Features a multi-provider intelligence pipeline (Shodan, Censys, LeakIX), SQLite persistence for delta tracking, and a Flask-powered tactical dashboard.
-- **[PersonA-Vault](https://github.com/404saint/personavault)** — Secure, compartmentalized persona management system designed around operational separation, encrypted storage, and risk scoring. 
-- **[SurfaceLens](https://github.com/404saint/surfacelens)** — Passive attack surface & Shadow IT intelligence engine built on Shodan data. Supports online/offline analysis and explainable risk scoring.
-- **[ContextLens v1](https://github.com/404saint/contextlens)** — Infrastructure and application-layer prioritization engine. Profiles abstraction layers and provides guided recommendations for assessments.
-- **[HLS Stream Analyzer](https://github.com/404saint/hls-stream-analyzer)** — HLS playlist analysis and stream reconstruction framework for security research and media forensics.
+### `02`   /   TOOLS & EXPERIMENTS
+
+*Tools built to investigate, analyze, and understand technical systems.*
+
+</div>
+
+**[Guardian-OT →](https://github.com/404saint/guardian-ot)**
+
+A forensic and integrity tool for ICS/OT removable media, combining device identification, file integrity verification, and entropy-based anomaly detection.
+
+**[MEA · Modbus Exposure Analyzer →](https://github.com/404saint/mea)**
+
+A passive traffic analysis tool for profiling Modbus communication, examining device behavior, and identifying potentially exposed or misconfigured industrial assets.
+
+New tools and experiments will be featured here as the portfolio grows.
+
 ---
 
-## Contact
+<div align="center">
 
-- Website: www.rugerotesla.tech/
-- Email: `rugerotesla@proton.me`
-- Phone: `+250771627309`
-- Buy A Packet: [ko-fi.com/404saint](https://ko-fi.com/404saint)
+### `03`  •  LABS & TEST ENVIRONMENTS
+
+*Controlled environments for reproducible investigation.*
+
+</div>
+
+**[GNS3 ICS/OT Security Lab →](https://github.com/404saint/gns3-ics-security-lab)**
+
+An isolated industrial network simulation built around OpenPLC and FUXA HMI for exploring industrial architectures and security scenarios.
+
+**[ICS/OT Home Lab →](https://github.com/404saint/ics-ot-homelab)**
+
+A multi-tier industrial simulation connecting OpenPLC, FUXA, and Ignition Maker for investigating industrial communication and system behavior.
+
+These environments support controlled experimentation, evidence collection, and repeatable testing.
+
+---
+
+<div align="center">
+
+### `04`  •  TECHNICAL ENVIRONMENT
+
+</div>
+
+My research environment evolves with the problems I investigate. Current work draws on:
+
+`Python`   `C/C++`   `Bash`   `Linux`   `Docker`   `Git`   `Wireshark`   `tcpdump`
+
+Industrial systems, network analysis, protocol implementations, virtualized environments, and custom research tooling.
+
+This is a snapshot of the current environment, not an exhaustive list of my technical interests.
+
+---
+
+<div align="center">
+
+### `05`  •  WRITING & FINDINGS
+
+Research is documented through technical articles, repository notes, lab procedures, and experimental findings. I aim to make investigations understandable, reproducible, and useful to others working on related problems.
+
+<a href="https://www.rugerotesla.tech">
+  <img src="https://img.shields.io/badge/EXPLORE_RESEARCH-2b2110?style=for-the-badge&labelColor=111418" alt="Explore research and publications" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/404saint">GitHub</a>   ·   <a href="https://www.rugerotesla.tech">Website</a>   ·   <a href="mailto:rugerotesla@proton.me">Email</a>
+
+<br/><br/>
+
+<sub>404SAINT™   RESEARCH · EXPERIMENTATION · DISCOVERY</sub>
+
+<sub>Understand the system. Inspect the evidence. Follow the questions.</sub>
+
+</div>
