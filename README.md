@@ -72,7 +72,7 @@ A forensic and integrity tool for ICS/OT removable media, combining device ident
 
 A passive traffic analysis tool for profiling Modbus communication, examining device behavior, and identifying potentially exposed or misconfigured industrial assets.
 
-New tools and experiments will be featured here as the portfolio grows.
+> New tools and experiments will be featured here as the portfolio grows.
 
 ---
 
@@ -92,7 +92,7 @@ An isolated industrial network simulation built around OpenPLC and FUXA HMI for 
 
 A multi-tier industrial simulation connecting OpenPLC, FUXA, and Ignition Maker for investigating industrial communication and system behavior.
 
-These environments support controlled experimentation, evidence collection, and repeatable testing.
+> These environments support controlled experimentation, evidence collection, and repeatable testing.
 
 ---
 
@@ -108,7 +108,7 @@ My research environment evolves with the problems I investigate. Current work dr
 
 Industrial systems, network analysis, protocol implementations, virtualized environments, and custom research tooling.
 
-This is a snapshot of the current environment, not an exhaustive list of my technical interests.
+> This is a snapshot of the current environment, not an exhaustive list of my technical interests.
 
 ---
 
