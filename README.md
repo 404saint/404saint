@@ -26,15 +26,11 @@
 
 <div align="center">
 
-### `00`  •  ABOUT THIS HUB
-
 </div>
 
-An evolving hub for my security research, technical experiments, tools, and projects.
+This is an evolving hub for my security research, technical experiments, tools, and projects.
 
 I investigate how systems work, how they communicate, where security assumptions fail, and how technical findings can inform better defenses. My work combines hands-on experimentation, protocol and system analysis, custom tooling, and reproducible documentation.
-
-**ICS/OT security is my current professional focus.** This hub grows alongside my work, leaving room for new research directions, technologies, and discoveries as they emerge.
 
 ---
 
@@ -58,7 +54,7 @@ A collection of investigations into industrial communication, protocol behavior,
 
 <div align="center">
 
-### `02`   /   TOOLS & EXPERIMENTS
+### `02`  •  TOOLS & EXPERIMENTS
 
 *Tools built to investigate, analyze, and understand technical systems.*
 
