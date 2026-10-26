@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111418,100:2b2110&height=220&section=header&text=RUGERO%20Tesla&fontColor=f5a623&fontSize=56&fontAlignY=38&desc=ICS/OT%20%20SECURITY%20RESEARCHER&descAlignY=60&descColor=c99538&animation=fadeIn" width="100%" alt="RUGERO Tesla | Security Researcher" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1200&color=F5A623&center=true&vCenter=true&width=650&height=35&lines=Starting+at+Layer+Zero.;Investigating+how+systems+work.;Turning+technical+evidence+into+security+insight.;Building%2C+testing%2C+and+documenting+research." alt="Research philosophy animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1200&color=F5A623&center=true&center=true&width=650&height=35&lines=Starting+at+Layer+Zero.;Investigating+how+systems+work.;Turning+technical+evidence+into+security+insight.;Building%2C+testing%2C+and+documenting+research." alt="Research philosophy animation" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 </div>
 
@@ -34,7 +34,7 @@ I investigate how systems work, how they communicate, where security assumptions
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### `01`  •  RESEARCH & INVESTIGATIONS
 
@@ -52,7 +52,7 @@ A collection of investigations into industrial communication, protocol behavior,
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### `02`  •  TOOLS & EXPERIMENTS
 
@@ -72,7 +72,7 @@ A passive traffic analysis tool for profiling Modbus communication, examining de
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### `03`  •  LABS & TEST ENVIRONMENTS
 
@@ -92,7 +92,7 @@ A multi-tier industrial simulation connecting OpenPLC, FUXA, and Ignition Maker 
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### `04`  •  TECHNICAL ENVIRONMENT
 
@@ -108,13 +108,17 @@ Industrial systems, network analysis, protocol implementations, virtualized envi
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### `05`  •  WRITING & FINDINGS
 
 Research is documented through technical articles, repository notes, lab procedures, and experimental findings. I aim to make investigations understandable, reproducible, and useful to others working on related problems.
 
-<a href="https://www.rugerotesla.tech">
+</div>
+
+<div align="center">
+
+ <a href="https://www.rugerotesla.tech">
   <img src="https://img.shields.io/badge/EXPLORE_RESEARCH-2b2110?style=for-the-badge&labelColor=111418" alt="Explore research and publications" />
 </a>
 
@@ -123,9 +127,8 @@ Research is documented through technical articles, repository notes, lab procedu
 <a href="https://github.com/404saint">GitHub</a>   ·   <a href="https://www.rugerotesla.tech">Website</a>   ·   <a href="mailto:rugerotesla@proton.me">Email</a>
 
 <br/><br/>
-
-<sub>404SAINT™   RESEARCH · EXPERIMENTATION · DISCOVERY</sub>
-
-<sub>Understand the system. Inspect the evidence. Follow the questions.</sub>
+ 
+<sub>2026   TELEMETRILABS ©</sub>
 
 </div>
+
